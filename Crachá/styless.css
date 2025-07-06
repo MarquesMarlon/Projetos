@@ -1,0 +1,41 @@
+/* CSS crachá */
+
+body {
+background-color:#807B79;
+}
+
+.cracha {
+width: 300px;
+line-height: 5;
+margin: 0 auto;
+border-radius: 10px;
+background-color: black;
+padding: 20px;
+text-align: center;
+}
+
+.logo {
+display: block;
+margin: 0 auto;
+margin-top: 20px;
+
+}
+
+.nome {
+text-align: center;
+line-height: 0.3;
+font-family: arial;
+font-size: 19px;
+color: #C6A85F;
+
+}
+
+.setor {
+margin-top: -20px;
+font-family: arial;
+line-height: 0.8;
+text-align: center;
+color: #fff;
+font-size: 18px;
+;
+}
